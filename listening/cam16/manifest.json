@@ -1,0 +1,27 @@
+{
+  "series": "cam16",
+  "tests": [
+    {
+      "id": 1,
+      "parts": 4,
+      "duration": "~30 minutes"
+    },
+    {
+      "id": 2,
+      "parts": 4,
+      "duration": "~30 minutes"
+    },
+    {
+      "id": 3,
+      "parts": 4,
+      "duration": "~30 minutes"
+    },
+    {
+      "id": 4,
+      "parts": 4,
+      "duration": "~30 minutes"
+    }
+  ],
+  "totalFiles": 16,
+  "createdAt": "2025-11-14T02:06:07.179Z"
+}
